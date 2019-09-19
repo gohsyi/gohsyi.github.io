@@ -1,0 +1,4 @@
+deploy:
+type: git
+repo: https://github.com/gohsyi/gohsyi.github.io.git
+branch: master
